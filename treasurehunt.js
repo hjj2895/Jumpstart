@@ -3,7 +3,7 @@ var nail =  Math.floor(Math.random() * 9)
 
 
 if (nail === finish){
-    nail = Math.floor(Math.randon() * 9)
+    nail = Math.floor(Math.random() * 9)
 }
 
 var tries = 5;
